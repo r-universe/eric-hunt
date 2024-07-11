@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["fragr", "uncleR", "hRvstAPI", "htce", "embark.rstheme"]
+  "repositories": ["fragr", "uncleR", "hRvstAPI", "htce", "embark.rstheme", "eric-hunt.r-universe.dev"]
 }
