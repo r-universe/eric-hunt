@@ -1,0 +1,10 @@
+{
+  "id": 52712427,
+  "created_at": "2024-07-11T14:38:20.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["fragr", "uncleR", "hRvstAPI", "htce", "embark.rstheme"]
+}
